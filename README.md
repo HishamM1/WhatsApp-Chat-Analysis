@@ -4,7 +4,7 @@ This project is about analysing WhatsApp chat to get information like the total 
 1. Download WhatsApp Chat Analysis.ipynb.
 2. Go to the chat which you want to analyse on Whatsapp and press the three dots upright. Then press more then Export chat without media.
 3. After you download the chat text file, put its path in the chat_txt variable.
-4. Remove "png" from fig.show("png") to interact with the graph 
+4. Remove "svg" from fig.show("svg") to interact with the graph 
 5. Run the notebook.
 # Credits
 Used https://github.com/mohataher/arabic-stop-words list to remove stop words.
